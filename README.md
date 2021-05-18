@@ -1,7 +1,7 @@
 # A Simple pomodoro timer
 I wanted to make my own pomodoro timer to use for my daily productivity stuff.
 
-I'll be using Tkinter and the time standard libraries for version 0.
+I'll be using PySimpleGUI and the time standard libraries for version 0.
 
 Here's a rough idea of what version 0 should look like...lol 90s UX design:
 
