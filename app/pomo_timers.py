@@ -2,7 +2,7 @@
 import PySimpleGUI as sg
 import time
 
-# set the theme
+# theme
 sg.theme('DarkAmber')
 
 # pysimplegui uses nested arrays to position elements absolutely
@@ -35,7 +35,7 @@ def time_to_int():
     return int(round(time.time() * 100))
 
 
-# timer variable
+# timer variables
 current_time, paused_time, paused = 0, 0, False
 start_time = time_to_int()
 
