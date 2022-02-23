@@ -1,23 +1,25 @@
 # A Simple pomodoro timer
-I'm making my own pomodoro timer to use for my daily productivity stuff. I'll be using PySimpleGUI and the time standard libraries for version 0.
+I'm making my own pomodoro timer to use for my daily productivity stuff. I'll be using PySimpleGUI and the time standard libraries for this project.
 
-Here's a rough functional idea of what version 0 should look like...
+If you don't know what a pomodoro timer is here's an explanation of the technique in practice:
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+Timer looks something like this.
 ![Huy's Pomodoro](ui/huys-pomodoro.png)
 
-And where I'm aiming to get to in the first iteration.
-
-### version 1.0
+And ui plus health tracking information
 ![Huy's Pomodoro](ui/huyp-beta-main.svg)
 
-### version 1.0
 Task creation view
 ![Huy's Pomodoro](ui/huyp-beta-task-create-view.svg)
 
-HuysPomodoro app is composed of 7 widgets;
-1. A task queue widget with latest task emphasised.
-2. A time feed with active/break/paused/rested time states.
-3. A neuro activity graph metric if the user connects any neural tech wearable devices via bluetooth.
-4. Daily activity health markers if the user connects any health tracking wearable devices via bluetooth.
+
+### Features
+First build;
+1. A queueing routine.
+2. A timer.
+3. A bluetooth api.
+4. Some state.
 5. A key productivity rating measure averaged during a session.
 6. Controls - Go, Stop and Next buttons.
 7. Application settings.
