@@ -1,15 +1,13 @@
 # A Simple pomodoro timer
-Implementation: https://en.wikipedia.org/wiki/Pomodoro_Technique
+A Pomodor timer implementation: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-### Todo:
-1. A queueing routine
-2. A timer
-3. A bluetooth api
-4. Some state
-5. A key productivity rating measure averaged during a session
-6. Controls - Go, Stop and Next buttons
-7. Application settings
+## Overview
+* Default mode 25 minute intervals with 10 minute break
+* Set desired work interval (pomodoro) and break times
+* CRUD tasks and descriptions
+* Choose desired timer sound from a list of sounds
+* Settings for volume, fonts, and themes
 
-# Objective
-I want to build something I could use everyday in my own life and I wanted it to be minimal yet feature-rich.
+# Project Objective
+I want to build a pomodoro timer I could use in my everyday, whether while working, studying or learning. It should be minimal yet feature-rich.
 
