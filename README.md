@@ -25,8 +25,7 @@ First build;
 7. Application settings.
 
 # Just a really nice desktop productivity app
-I wanted to build something I could use everyday in my own life and I wanted it to be high performant, functional, simple and yet
-let's me take advantage of modern engineering and digital design to craft something cool. 
+I wanted to build something I could use everyday in my own life and I wanted it to be high performant, functional and simple.
 
 ## To do:
 * <s>Finish v1 designs</s>
