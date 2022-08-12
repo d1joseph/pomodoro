@@ -14,7 +14,7 @@ After three pomodoros, take a longer break (30 minutes by default) at the end of
 $ python --version
 Python 3.9.x
 ```
-* A [virtual environment](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments) installed. [venv](https://docs.python.org/3/library/venv.html) comes install with Python version 3.3^.
+* A [virtual environment](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments) installed. [venv](https://docs.python.org/3/library/venv.html) comes installed with Python version 3.3^.
 * A Python package installer like [pip](https://pypi.org/project/pip/) or similar
 
 ## Installing The Project
