@@ -4,7 +4,7 @@ A Pomodoro timer: https://en.wikipedia.org/wiki/Pomodoro_Technique
 ## What Is it?
 Timebox your work with this Pomodoro timer app. Set your work timer (25 minutes by default), press **Start** and take a break (10 minutes by default) when the timer goes off. Each interval is **1 pomodoro**
 
-After three pomodoros, take a longer break (30 minutes by default) at the end of the fourth. Repeat until you're done.
+After three pomodoros, take a longer break (30 minutes by default) at the end of the fourth. Repeat until you're done with your work.
 
 
 ## Prerequisites
