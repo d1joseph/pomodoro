@@ -15,11 +15,11 @@ $ python --version
 Python 3.9.x
 ```
 * A [virtual environment](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments) installed. [venv](https://docs.python.org/3/library/venv.html) comes install with Python version 3.3^.
+* A Python package installer like [pip](https://pypi.org/project/pip/) or similar
 
 ## Installing The Project
-1. Clone the repo
-2. Activate your 
-3. Activate a virtual environment with `pip env venv` 
+1. Clone and `cd` into the repo
+3. Create a virtual environment with `pip env venv` 
 4. Install the packages and dependencies with `pip install requirements.txt`
 5. Happy coding!
 
