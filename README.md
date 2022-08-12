@@ -1,13 +1,25 @@
-# A Simple pomodoro timer
-A Pomodor timer implementation: https://en.wikipedia.org/wiki/Pomodoro_Technique
+# PyModoro
+A Pomodoro timer: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-## Overview
-* Default mode 25 minute intervals with 10 minute break
-* Set desired work interval (pomodoro) and break times
-* CRUD tasks and descriptions
-* Choose desired timer sound from a list of sounds
-* Settings for volume, fonts, and themes
+## What Is it?
+Timebox your work with this Pomodoro timer app. Set your work timer (25 minutes by default), press start and take a break (10 minutes by default) when the timer goes off. Each interval is **1 pomodoro**
 
-# Project Objective
-I want to build a pomodoro timer I could use in my everyday, whether while working, studying or learning. It should be minimal yet feature-rich.
+After three pomodoros, take a longer break (30 minutes by default) at the end of the fourth. Repeat until you're done.
+
+
+## Prerequisites
+* Python 3.9^
+* Python is on your command line `PATH` : <br>
+```
+$ python --version
+Python 3.9.x
+```
+* A [virtual environment](https://packaging.python.org/en/latest/tutorials/installing-packages/#creating-and-using-virtual-environments) installed. [venv](https://docs.python.org/3/library/venv.html) comes install with Python version 3.3^.
+
+## Installing The Project
+1. Clone the repo
+2. Activate your 
+3. Activate a virtual environment with `pip env venv` 
+4. Install the packages and dependencies with `pip install requirements.txt`
+5. Happy coding!
 
